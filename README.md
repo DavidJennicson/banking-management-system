@@ -4,3 +4,4 @@
 <li>Creation of user</li>
 <li>View users data</li>
 <li>Deposit Money and transact</li>
+<li>Transaction History</li>
